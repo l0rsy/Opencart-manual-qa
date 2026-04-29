@@ -1,2 +1,3 @@
-# Opencart-manual-qa
-Manual QA project for OpenCart demo: test plan, test cases, checklists, and bug reports
+# OpenCart Manual QA
+
+## Manual testing project for [OpenCart Demo](https://demo.opencart.com).
